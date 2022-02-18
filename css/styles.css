@@ -1,0 +1,26 @@
+body {
+    background-color: #e4f1ef;    
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1>a{
+    color: #089797;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: #089797;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: #66BFBF;
+    font-family: Arial, Helvetica, sans-serif;
+}
