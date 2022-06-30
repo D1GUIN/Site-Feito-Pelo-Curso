@@ -4,7 +4,7 @@
  
 ### Link
 
-Site URL: [https://d1guin.github.io/Site-Feito-Pelo-Curso/]
+Site URL: [https://diegovalois.github.io/beginningSkills/]
 
 ### Comment
 
