@@ -1,15 +1,15 @@
-### Autor
+### Author
 
  - Diego Valois
  
 ### Link
 
-Site URL: https://d1guin.github.io/Site-Feito-Pelo-Curso/
+Site URL: [https://d1guin.github.io/Site-Feito-Pelo-Curso/]
 
-### Comentario
+### Comment
 
-Aprendendo sobre HTMl.
+Learning about HTML.
 
-### Nivel
+### Level
 
-Começando a aprender a progamar.
+Starting to learn about programming.
